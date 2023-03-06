@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/issues</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/pulls</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/actions</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/projects?query=is%3Aopen</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/security</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/master/README.md</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/master/capture.py</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/master/googleec35308673225c8e.html</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/releases</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/compare</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/security/policy</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/security/advisories</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/6a9e264b60883e86a39fa1470ce495b6d897d672/README.md</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/find/master</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/master/README.md?plain=1</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/6a9e264b60883e86a39fa1470ce495b6d897d672/capture.py</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/6a9e264b60883e86a39fa1470ce495b6d897d672/googleec35308673225c8e.html</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels?sort=name-asc</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels?sort=name-desc</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels?sort=count-desc</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels?sort=count-asc</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/bug</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/documentation</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/duplicate</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/enhancement</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/good%20first%20issue</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/help%20wanted</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/invalid</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/question</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/labels/wontfix</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/find/6a9e264b60883e86a39fa1470ce495b6d897d672</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/blob/6a9e264b60883e86a39fa1470ce495b6d897d672/README.md?plain=1</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/commit/96fcb32b87a4fbcce26e53dfc2142dc03f3fa223</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jmabala/Capture-Edismart-data/commit/9e64d73ed59fd0a042f6b0026b8499fb2944b4f7</loc>
+  <lastmod>2023-03-06T19:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
