@@ -4,3 +4,5 @@ This approach proposes using screenshots of the edismart app to capture and reco
 Bluestacks 
 
 Tesseract Open Source OCR Engine
+
+PIL
