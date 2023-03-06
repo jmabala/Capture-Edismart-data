@@ -8,3 +8,7 @@ Tesseract Open Source OCR Engine
 PIL Library
 
 Pyautogui package
+
+Edismart app
+
+Python
