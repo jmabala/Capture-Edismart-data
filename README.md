@@ -5,4 +5,6 @@ Bluestacks
 
 Tesseract Open Source OCR Engine
 
-PIL
+PIL Library
+
+Pyautogui package
